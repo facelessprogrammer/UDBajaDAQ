@@ -22,6 +22,8 @@ from adafruit_max31855 import MAX31855  - This allows for the ability to read of
 
 
 
+
+
 Since the Raspberry Pi is running the Python Scripts the imports need to be installed inside of Linux
 
 For the adafruit_mma8451 import MMA8451 and adafruit_max31855 import MAX31855 the links are below for the guides used are below
