@@ -33,7 +33,7 @@ adafruit_mma8451 import MMA8451: https://learn.adafruit.com/adafruit-mma8451-acc
 
 adafruit_max31855 import MAX31855: https://learn.adafruit.com/thermocouple/python-circuitpython
 
-
+The fuel flow sensor link for operation: https://www.youtube.com/watch?v=3q7simXNlm0
 
 
 
