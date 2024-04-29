@@ -1,6 +1,13 @@
 The purpoes of this document is to showcase the University of Dayton Baja Team's code for their Data Acquisition System
 ==========
 
+The list of Data files
+DAQFuelFlow.py - The first original script created during Fall of 2023. Works while computer is plugged in
+Final DAQ Code - This code is fully operational with all sensors collecting data and runs in the background in a bash script
+Sensors zip - Contains all of the code for each individual sensors 
+
+
+
 The imports are listed as:
 
 import time  - Allows to have functionality in recording or delaying the current time
